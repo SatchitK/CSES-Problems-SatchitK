@@ -1,3 +1,3 @@
-Starting my CSES.FI adventure.
+Starting my cses.fi adventure.
 
 Wish me luck!
